@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nome": "Celular", "preco": 1000 },
+  { "id": 2, "nome": "Notebook", "preco": 2500 },
+  { "id": 3, "nome": "Smart TV", "preco": 1500 }
+]
